@@ -44,6 +44,7 @@
 		CF7561462A41339B0040F592 /* spotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = spotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF75614A2A41339B0040F592 /* spotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spotUITests.swift; sourceTree = "<group>"; };
 		CF75614C2A41339B0040F592 /* spotUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spotUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF9000952A41348900675C62 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 				CF7561312A41339A0040F592 /* ContentView.swift */,
 				CF7561332A41339B0040F592 /* Assets.xcassets */,
 				CF7561352A41339B0040F592 /* Preview Content */,
+				CF9000952A41348900675C62 /* README.md */,
 			);
 			path = spot;
 			sourceTree = "<group>";
